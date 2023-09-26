@@ -6,8 +6,6 @@
 </template>
 
 <script setup lang="ts">
-import { RouterView } from 'vue-router';
-import Sitenavigation from '@/components/SiteNavigation.vue';
+import { RouterView } from 'vue-router'
+import Sitenavigation from '@/components/SiteNavigation.vue'
 </script>
-
- 
